@@ -9,3 +9,5 @@
 /output/playwright/
 /.playwright-cli/
 *.tsbuildinfo
+config.bat
+node_modules
